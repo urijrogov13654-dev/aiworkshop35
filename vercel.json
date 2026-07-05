@@ -2,11 +2,11 @@
   "rewrites": [
     { 
       "source": "/calculate", 
-      "destination": "http://gratefully-qualified-cricket.cloudpub.ru:80/calculate" 
+      "destination": "http://gratefully-qualified-cricket.cloudpub.ru/calculate" 
     },
     { 
       "source": "/save_order", 
-      "destination": "http://gratefully-qualified-cricket.cloudpub.ru:80/save_order" 
+      "destination": "http://gratefully-qualified-cricket.cloudpub.ru/save_order" 
     }
   ]
 }
