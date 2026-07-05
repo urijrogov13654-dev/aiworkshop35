@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/calculate", "destination": "https://gratefully-qualified-cricket.cloudpub.ru/calculate" },
+    { "source": "/save_order", "destination": "https://gratefully-qualified-cricket.cloudpub.ru/save_order" }
+  ]
+}
